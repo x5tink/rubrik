@@ -1,0 +1,13 @@
+C:\Users\x5tink-desktop\source\repos\rubrik\rubrik\bin\Debug\netcoreapp3.1\rubrik.exe
+C:\Users\x5tink-desktop\source\repos\rubrik\rubrik\bin\Debug\netcoreapp3.1\rubrik.deps.json
+C:\Users\x5tink-desktop\source\repos\rubrik\rubrik\bin\Debug\netcoreapp3.1\rubrik.runtimeconfig.json
+C:\Users\x5tink-desktop\source\repos\rubrik\rubrik\bin\Debug\netcoreapp3.1\rubrik.runtimeconfig.dev.json
+C:\Users\x5tink-desktop\source\repos\rubrik\rubrik\bin\Debug\netcoreapp3.1\rubrik.dll
+C:\Users\x5tink-desktop\source\repos\rubrik\rubrik\bin\Debug\netcoreapp3.1\rubrik.pdb
+C:\Users\x5tink-desktop\source\repos\rubrik\rubrik\obj\Debug\netcoreapp3.1\rubrik.csprojAssemblyReference.cache
+C:\Users\x5tink-desktop\source\repos\rubrik\rubrik\obj\Debug\netcoreapp3.1\rubrik.AssemblyInfoInputs.cache
+C:\Users\x5tink-desktop\source\repos\rubrik\rubrik\obj\Debug\netcoreapp3.1\rubrik.AssemblyInfo.cs
+C:\Users\x5tink-desktop\source\repos\rubrik\rubrik\obj\Debug\netcoreapp3.1\rubrik.csproj.CoreCompileInputs.cache
+C:\Users\x5tink-desktop\source\repos\rubrik\rubrik\obj\Debug\netcoreapp3.1\rubrik.dll
+C:\Users\x5tink-desktop\source\repos\rubrik\rubrik\obj\Debug\netcoreapp3.1\rubrik.pdb
+C:\Users\x5tink-desktop\source\repos\rubrik\rubrik\obj\Debug\netcoreapp3.1\rubrik.genruntimeconfig.cache
